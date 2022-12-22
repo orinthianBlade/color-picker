@@ -55,6 +55,7 @@ select[name="color-names"] option:checked {
 }
 
 main {
+    cursor: pointer;
     height: 80vh;
     width: 100vw;
     display: grid;
